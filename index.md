@@ -1,4 +1,4 @@
-## Yu Teng 于腾
+### Yu Teng 于腾
 <table>
   <tr>
     <td width="20%">
@@ -6,46 +6,23 @@
     </td>
     <td width="75%">
       <p><b>Associate Professor</b></p>
-      <p><b>Qingdao University</b></p>
+      <p><b>School of Electronic and Information Engineering, Qingdao University, P.R. China</b></p>
       <p><b>yutenghit@foxmail.com</b></p>
     </td>
   </tr>
 </table>
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/yuteng/yuteng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yu Teng received the B.S.degree in communication engineering from the Harbin Institute of Technology, China, in 2006, and the Ph.D.degree from Hanyang University, South Korea, in 2015. Since 2015, he has been an Assistant Professor with the School of Electronic and Information Engineering, Qingdao University, China. His current research interests include artiﬁcial intelligence, computer vision, and image processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Education
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuteng/yuteng.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in IEEE Access, vol. 7, pp. 114619-114630, 2019.
+- X. Xu, T. Yu*, X. Xu, G. Hou, R. W. Liu and H. Pan, "Variational total curvature model for multiplicative noise removal," in IET Computer Vision, vol. 12, no. 4, pp. 542-552, 6 2018.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Research Projects
+
+
