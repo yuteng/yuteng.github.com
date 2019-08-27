@@ -1,5 +1,5 @@
 ## Yu Teng 于腾
-<table border="0">
+<table>
   <tr>
     <td width="20%">
       <img src="/yt.jpg" width="100%">     
