@@ -1,7 +1,7 @@
 ### Yu Teng 于腾
 <table>
   <tr>
-    <td width="20%">
+    <td width="16%">
       <img src="/yt.jpg" width="100%">     
     </td>
     <td width="75%">
