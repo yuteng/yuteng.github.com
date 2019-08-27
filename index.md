@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 ### About Me
 
 Yu Teng received the B.S.degree in communication engineering from the Harbin Institute of Technology, China, in 2006, and the Ph.D.degree from Hanyang University, South Korea, in 2015. Since 2015, he has been an Assistant Professor with the School of Electronic and Information Engineering, Qingdao University, China. His current research interests include artiﬁcial intelligence, computer vision, and image processing.
