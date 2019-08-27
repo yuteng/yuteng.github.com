@@ -6,7 +6,7 @@
       <p><b>Qingdao University</b></p>
       <p><b>yutenghit@foxmail.com</b></p>
     </td>
-    <td width="25%">
+    <td width="15%">
       <img src="/yt.jpg" width="100%">     
     </td>
   </tr>
