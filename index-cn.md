@@ -6,15 +6,18 @@
     </td>
     <td width="75%">
       <p><b>工学博士 副教授</b></p>
-      <p><b>青岛大学电子信息学院</b></p>
+      <p><b>青岛大学人工智能与计算机视觉实验室主任</b></p>
       <p><b>Email:yutenghit@foxmail.com</b></p>
     </td>
   </tr>
 </table>
 
-### 个人简介
+### 教育和工作经历
 
-Yu Teng received the B.S.degree in communication engineering from Harbin Institute of Technology, China, in 2006, and the Ph.D.degree from Hanyang University, South Korea, in 2015. From 2015 to 2018, he was a Assistant Professor with the Communication Engineering Department, Qingdao Univeristy. Since 2019, he has been an Assosiate Professor with the Electronic Engineering Department, Qingdao University. His current research interests include artiﬁcial intelligence, computer vision, and image processing.
+2019至今 副教授 电子信息工程系 青岛大学
+2015-2019 助理教授 通信工程系 青岛大学
+2010-2015 工学博士 电子与通信工程专业 汉阳大学
+2006-2010 工学学士 通信工程专业 哈尔滨工业大学
 
 
 ### 发表论文
