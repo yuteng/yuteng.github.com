@@ -7,13 +7,13 @@
     <td width="75%">
       <p><b>工学博士 副教授</b></p>
       <p><b>青岛大学人工智能与计算机视觉实验室主任</b></p>
-      <p><b>Email:yutenghit@foxmail.com</b></p>
       <p><b>研究方向：人工智能 计算机视觉 机器学习</b></p>
+      <p><b>Email：yutenghit@foxmail.com</b></p>
     </td>
   </tr>
 </table>
 
-$\color{#4285f4}{### 教育和工作经历}$
+### 教育和工作经历
 
 - 2019至今 副教授 电子信息工程系 青岛大学
 - 2015-2019 助理教授 通信工程系 青岛大学
@@ -21,7 +21,7 @@ $\color{#4285f4}{### 教育和工作经历}$
 - 2006-2010 工学学士 通信工程专业 哈尔滨工业大学
 
 
-$\color{#4285f4}{### 发表论文}$
+### 发表论文
 
 - T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in IEEE Access, vol. 7, pp. 114619-114630, 2019.
 - X. Xu, T. Yu*, X. Xu, G. Hou, R. W. Liu and H. Pan, "Variational total curvature model for multiplicative noise removal," in IET Computer Vision, vol. 12, no. 4, pp. 542-552, 6 2018.
