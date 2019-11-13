@@ -5,7 +5,7 @@
       <img src="/yt.jpg" width="100%">     
     </td>
     <td width="75%">
-      <p><b>工学博士 副教授r</b></p>
+      <p><b>工学博士 副教授</b></p>
       <p><b>青岛大学电子信息学院</b></p>
       <p><b>Email:yutenghit@foxmail.com</b></p>
     </td>
