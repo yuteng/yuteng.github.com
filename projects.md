@@ -1,4 +1,4 @@
-<font color=yellow size=6>于腾课题组科研课题</font>
+于腾课题组科研课题
 
 #### 个人介绍
 <a href="/index-cn.html">点击此处</a>
