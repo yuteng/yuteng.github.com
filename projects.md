@@ -1,5 +1,8 @@
 ### 于腾课题组科研课题
 
+#### 个人介绍
+<a href="/index-cn.html">点击此处</a>
+
 #### 基于计算机视觉的无人驾驶相关技术
 - 车辆和行人自动检测（Vehicle and Pedestrian Detection）
 - 路标自动识别（Road Marking Detection）
