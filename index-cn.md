@@ -9,11 +9,12 @@
       <p><b>工学博士 副教授 硕士生导师</b></p>
       <p><b>青岛大学人工智能与计算机视觉实验室主任</b></p>
       <p><b>青岛发改委项目评审专家</b></p>
-      <p><b>研究方向：人工智能 计算机视觉 机器学习</b></p>
-      <p><b>Email：yutenghit@foxmail.com</b></p>
     </td>
   </tr>
 </table>
+
+- 研究方向：人工智能 计算机视觉 机器学习
+- Email：yutenghit@foxmail.com
 
 ### 教育和工作经历
 
