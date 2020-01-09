@@ -5,6 +5,7 @@
 
 #### 基于计算机视觉的无人驾驶相关技术
 - 车辆和行人自动检测（Vehicle and Pedestrian Detection）
+<img src="/vp detection.png" width="100%">
 - 路标自动识别（Road Marking Detection）
 - 疲劳驾驶智能检测（Yawning Detection）
 
