@@ -1,5 +1,5 @@
 <a href="/index.html">English Version</a>
-### 于腾简介
+### 1 于腾简介
 
 <table border="0">
   <tr>
@@ -17,7 +17,7 @@
 - 研究方向：人工智能 计算机视觉 机器学习
 - Email：yutenghit@foxmail.com
 
-### 个人履历
+### 2 个人履历
 
 - 2019/10 – 至今，青岛大学，电子信息工程系，副教授
 - 2015/09 – 2019/9，青岛大学，通信工程系，助理教授
@@ -25,11 +25,11 @@
 - 2006/09 – 2010/06，哈尔滨工业大学，通信工程，本科
 
 
-### 课题项目
+### 3 课题项目
 
 <a href="/projects.html">点击此处</a>
 
-### 发表论文
+### 4 发表论文
 
 - T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in IEEE Access, vol. 7, pp. 114619-114630, 2019.
 - X. Xu, T. Yu*, X. Xu, G. Hou, R. W. Liu and H. Pan, "Variational total curvature model for multiplicative noise removal," in IET Computer Vision, vol. 12, no. 4, pp. 542-552, 6 2018.
