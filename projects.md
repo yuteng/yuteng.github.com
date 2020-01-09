@@ -8,7 +8,10 @@
 ![image](vp detection.png)
 
 - 路标自动识别（Road Marking Detection）
+![image](road marking.png)
+
 - 疲劳驾驶智能检测（Yawning Detection）
+![image](yawn detection.png)
 
 #### 基于视觉的智能安防技术研究
 - 火灾检测（Fire Flame and Smoke Detection）
@@ -17,5 +20,10 @@
 
 #### 通用图像处理与识别技术
 - 基于深度学习的表情识别（Emotion Recognition）
+![image](emotion.png)
+
 - 图像去雾霾（Image Dehazing）
+![image](https://github.com/yuteng/nighttime-dehazing/blob/master/flowchart.png)
+
 - HDR成像和色调映射（HDR Imaging and Tone Mapping）
+![image](hdr.png)
