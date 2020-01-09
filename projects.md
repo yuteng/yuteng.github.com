@@ -4,7 +4,7 @@
 
 <a href="/index-cn.html">点击此处</a>
 
-### 基于计算机视觉的无人驾驶相关技术
+### 用于无人驾驶的视觉检测技术
 
 - 车辆和行人自动检测（Vehicle and Pedestrian Detection）
 ![image](vp detection.png)
@@ -32,7 +32,7 @@
 - HDR成像和色调映射（HDR Imaging and Tone Mapping）
 ![image](hdr.png)
 
-### 基于视觉的智能安防技术研究
+### 基于视觉的智能安防技术
 
 - 火灾检测（Fire Flame and Smoke Detection）
 - 人群密度监控（Dense Crowd Counting）
