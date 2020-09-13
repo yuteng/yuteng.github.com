@@ -31,7 +31,10 @@
 
 ### 4 发表论文
 
-- T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in IEEE Access, vol. 7, pp. 114619-114630, 2019.
+- W. Lou, Y. Li, G. Yang, C. Chen, H. Yang, and T. Yu*, " Integrating Haze Density Features for Fast Nighttime Image Dehazing," in IEEE Access, vol. 8, pp. 113318-113330, 2020.
+- G. Yang, S. Qi, T. Yu*, et al., "SVDTWDD Method for High Correct Recognition Rate Classifier With Appropriate Rejection Recognition Regions," in IEEE Access, vol. 8, pp. 47914-47924, 2020.
+- H. Gong, T. Pei, Q. Ma, D. Jiang, T. Yu*, "Recognizing Facial Emotions Using Pooling-first Bilinear CNN from a Single Image," in Journal of Computers, Vol. 31 No. 4, 2020, pp. 54-64.
+- T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in  IEEE Access, vol. 7, pp. 114619-114630, 2019.
 - X. Xu, T. Yu*, X. Xu, G. Hou, R. W. Liu and H. Pan, "Variational total curvature model for multiplicative noise removal," in IET Computer Vision, vol. 12, no. 4, pp. 542-552, 6 2018.
 - G. Hou, G. Wang, Z. Pan, B. Huang, H. Yang, T. Yu, "Image Enhancement and Restoration: State of the Art of Variational Retinex Models," in IAENG International Journal of Computer Science, vol 44, no. 4, 2017.
 - I. Riaz, T. Yu, Y. Rehman, et al., "Single image dehazing via reliability guided fusion," in Journal of Visual Communication and Image Representation, vol. 40, no. PA, pp. 85-97, 2016.
