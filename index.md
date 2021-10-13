@@ -20,6 +20,9 @@ Yu Teng received the B.S.degree in communication engineering from Harbin Institu
 
 ### Publications
 
+- C. Chen, H. Zhao, H. Yang, T. Yu*, Full-reference Screen Content Image Quality Assessment by Fusing Multilevel Structure Similarity. ACM Trans. Multimedia Comput. Commun. Appl. 17, 3, 2021.
+- W. Lou, Y. Li, G. Yang, C. Chen, H. Yang, and T. Yu*, " Integrating Haze Density Features for Fast Nighttime Image Dehazing," in IEEE Access 8(2020):113318-113330.
+- G. Yang, S. Qi, T. Yu*, et al., "SVDTWDD Method for High Correct Recognition Rate Classifier With Appropriate Rejection Recognition Regions," in IEEE Access, vol. 8, pp. 47914-47924, 2020.
 - T. Yu, K. Song, P. Miao, G. Yang, H. Yang and C. Chen, "Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending," in IEEE Access, vol. 7, pp. 114619-114630, 2019.
 - X. Xu, T. Yu*, X. Xu, G. Hou, R. W. Liu and H. Pan, "Variational total curvature model for multiplicative noise removal," in IET Computer Vision, vol. 12, no. 4, pp. 542-552, 6 2018.
 - G. Hou, G. Wang, Z. Pan, B. Huang, H. Yang, T. Yu, "Image Enhancement and Restoration: State of the Art of Variational Retinex Models," in IAENG International Journal of Computer Science, vol 44, no. 4, 2017.
